@@ -1,8 +1,8 @@
 {
-  "name": "frontend-project-11",
+  "name": "@hexlet/code",
   "type": "module",
   "version": "1.0.0",
-  "description": "My project",
+  "description": "Rss agregator",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
